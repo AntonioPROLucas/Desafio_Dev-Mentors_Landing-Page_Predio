@@ -9,7 +9,7 @@
     }
 
     .Downpage{
-        margin-top: 700px;
+        margin-top: 80vh;
     }
 
     .lista-de-imagens{
@@ -22,5 +22,9 @@
 
     .imagem-predio img{
         max-width: 200px;
+    }
+
+    .imagem-predio img:hover{
+        max-width: 190px;
     }
 }
